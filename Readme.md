@@ -20,14 +20,14 @@ You have two options for installing this skill depending on your needs.
 
 Install this skill once to make it available across all your projects and sessions.
    ```bash
-   gemini skills install llm-coding-guidelines.skill --scope user
+   gemini skills install https://github.com/mertso13/gemini-skill-karpathy-coding --scope user
    ```
 
 ### Option 2: Workspace Scope (Local)
 
 Install this skill only for the current project directory.
    ```bash
-   gemini skills install llm-coding-guidelines.skill --scope workspace
+   gemini skills install https://github.com/mertso13/gemini-skill-karpathy-coding --scope workspace
    ```
 
 ## Usage
