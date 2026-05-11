@@ -1,0 +1,13 @@
+﻿{
+  "name": "llm-coding-guidelines",
+  "version": "1.0.0",
+  "description": "Andrej Karpathy's senior-level coding guidelines adapted for Gemini CLI.",
+  "author": "mertso13",
+  "repository": "https://github.com/mertso13/gemini-skill-karpathy-coding",
+  "skills": [
+    {
+      "name": "llm-coding-guidelines",
+      "path": "./llm-coding-guidelines"
+    }
+  ]
+}
